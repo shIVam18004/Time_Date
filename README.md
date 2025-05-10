@@ -6,14 +6,14 @@ A visually appealing and responsive digital clock that displays the current time
 
 ## 🌐 Live Demo
 
-👉 [Click here to view the live demo](https://your-live-demo-link.netlify.app)  
+👉 [Click here to view the live demo](https://shivam18004.github.io/Time_Date/)  
 *Replace with your actual deployment link.*
 
 ---
 
 ## 📷 Screenshot
 
-![Time and Date Web App Screenshot](assets/screenshot.png)  
+![Time and Date Web App Screenshot](https://github.com/shIVam18004/Time_Date/blob/main/img1.png)  
 *Ensure `screenshot.png` is placed inside the `assets` folder in your repo.*
 
 ---
